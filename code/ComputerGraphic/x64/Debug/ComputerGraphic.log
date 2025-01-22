@@ -1,0 +1,4 @@
+﻿  main.cpp
+E:\CG\ComputerGraphic\main.cpp(429,17): warning C4305: “+=”: 从“double”到“float”截断
+E:\CG\ComputerGraphic\main.cpp(431,17): warning C4305: “-=”: 从“double”到“float”截断
+  ComputerGraphic.vcxproj -> E:\CG\ComputerGraphic\x64\Debug\ComputerGraphic.exe
